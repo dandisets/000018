@@ -21,5 +21,7 @@ contributors:
 description: Electrophysiological data obtained in 1U01MH116990-01
 identifier: '000018'
 name: Mouse Spinal Cord Ephys Dataset
+organism:
+- species: Mus musculus
 sponsors:
 - name: NIH
