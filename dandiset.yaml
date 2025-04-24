@@ -13,12 +13,11 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Tao, Can; Zhang, Guang-Wei (2022) Mouse Spinal Cord Ephys Dataset (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000018/draft
+citation: Tao, Can; Zhang, Guang-Wei (2025) Mouse Spinal Cord Ephys Dataset (Version
+  draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000018/draft
 contributor:
 - affiliation:
-  - includeInCitation: false
-    name: University of Southern California
+  - name: University of Southern California
     schemaKey: Affiliation
   email: cantao@usc.edu
   includeInCitation: true
@@ -30,8 +29,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: University of Southern California
+  - name: University of Southern California
     schemaKey: Affiliation
   email: guangwei.zhang@med.usc.edu
   identifier: 0000-0002-3228-1981
@@ -59,7 +57,7 @@ manifestLocation:
 name: Mouse Spinal Cord Ephys Dataset
 protocol: []
 relatedResource: []
-repository: https://dandiarchive.org/
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
